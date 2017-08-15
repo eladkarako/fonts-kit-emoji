@@ -32,14 +32,13 @@ file. All fallback files must contain the same complete set of fonts; only their
 can differ.
 -->
 <familyset>
+<family><fileset><file>GS45_Arab_AndroidOS.ttf</file></fileset></family>
+<family><fileset><file>DroidSansEthiopic-Regular.ttf</file></fileset></family>
 <!--
 ##################
 # Hebrew support #
 # Noto prefered  #
 ################## -->
-<family><fileset>
-                 <file>NotoSansHebrew-Regular.ttf</file>
-                 <file>NotoSansHebrew-Bold.ttf</file></fileset></family>
 <family><fileset>
                  <file>DroidSansHebrew-Regular.ttf</file>
                  <file>DroidSansHebrew-Bold.ttf</file></fileset></family>
@@ -47,8 +46,6 @@ can differ.
 ###################
 # Other languages #
 ################### -->
-<family><fileset><file>GS45_Arab_AndroidOS.ttf</file></fileset></family>
-<family><fileset><file>DroidSansEthiopic-Regular.ttf</file></fileset></family>
 <family><fileset><file>GS_Thai_111220.ttf</file></fileset></family>
 <family><fileset><file>SamsungBengali.ttf</file></fileset></family>
 <family><fileset><file>SamsungDevanagari.ttf</file></fileset></family>
